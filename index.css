@@ -1,0 +1,45 @@
+/* INDEX */
+body{
+    background-color: tan;
+}
+.titoli{
+    width: 33.3%;
+    float: left;
+}
+.prova, #prodotti{
+    text-align: center;
+    font-weight: bold;
+}
+/* CIOCCOLATO */
+.cioccolato img{
+    float: center;
+}
+.cioccolato{
+    height: 350px;
+}
+#cioccolato{
+    text-align: center;
+    font-weight: bold;
+}
+/* HAMBURGER */
+.hamburger img{
+    float: center;
+}
+.hamburger{
+    height: 350px;
+}
+#hamburger{
+    text-align: center;
+    font-weight: bold;
+}
+/* PIZZA */
+.pizza img{
+    float: center;
+}
+.pizza{
+    height: 350px;
+}
+#pizza{
+    text-align: center;
+    font-weight: bold;
+}
